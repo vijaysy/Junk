@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyLocation</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lat">Latitude:</string>
+    <string name="lon">longitude:</string>
+    <string name="spd">Speed:</string>
+    <string name="cntnm">Contact Name</string>
+    <string name="cntno">Contact Number</string>
+    <string name="uname">User Name:&#160;&#160;&#160;&#160;</string>
+    <string name="uno">User Number:</string>
+    <string name="title_activity_emergency_contacts">Emergency Contacts</string>
+    <string name="title_activity_user_profile">User Profile</string>
+    <string name="title_activity_up">UP</string>
+
+</resources>
